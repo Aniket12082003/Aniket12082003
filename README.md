@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TrainMaster](https://github.com/pinghunter-Shubham/TrainMaster).
 
-- 🌱 I’m currently learning **JavaScript, Flask**.
+- 🌱 I’m currently learning **JavaScript, Node.js**.
 
 - 🖊️ I mostly work on **UI/UX, Websites**.
 
