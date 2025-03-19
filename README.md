@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Frontiera](https://github.com/Aniket12082003/Frontiera-New).
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Astro**.
 
-- 🖊️ I mostly work on **Frontend, GUI**.
+- 🖊️ I mostly work on **Frontend, GUI, Web Development**.
 
 - 📫 How to reach me **aniketchakraborty1208@gmail.com**.
 
